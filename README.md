@@ -1,4 +1,4 @@
-# ROS2 Self-Driving Car AI using OpenCV
+# Self Driving Car Sim
 
 A self-driving car simulation in a Gazebo environment using ROS2, OpenCV, and custom machine learning models. This project enables autonomous driving by detecting and responding to lanes, signboards, and traffic lights.
 
